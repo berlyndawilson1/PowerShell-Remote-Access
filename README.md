@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This lab will demonstrate the steps to run PowerShell commands on a remote Windows 10 PC using PowerShell remote session. PowerShell remoting allows you to run commands or access PowerShell sessions on a remote Windows system.
+This lab will demonstrate remote execution steps to run PowerShell commands on a remote Windows 10 PC using PowerShell remote session. PowerShell remoting allows you to run commands or access PowerShell sessions on a remote Windows system.
 <br />
 
 
